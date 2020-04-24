@@ -235,7 +235,7 @@ export default () => (
           variant="title"
           sx={{ fontSize: [5, 6], mb: 4, strong: { color: 'red' } }}
         >
-          <strong>Hack Club</strong> is the best place on the
+          Together, we're turning <strong>Hack Club</strong> into the best place on the
           internet to be a teenager into technology.
         </Heading>
         {/* <Button as="a" href="#join" variant="cta">
